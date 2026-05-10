@@ -14,9 +14,9 @@ Commande pour visualize :
 **1.**
 Les structures WeightedGraph et PositionedGraph sont définis dans ces deux fichiers (voici les liens de ces fichiers) :
 
-[WeightedGraph](#src/dataStructure/weightedGraph.hpp)
+[WeightedGraph](src/dataStructure/weightedGraph.hpp)
 
-[PositionedGraph](#src/osm/positionedGraph.hpp)
+[PositionedGraph](src/osm/positionedGraph.hpp)
 
 La structure WeightedGraph va permettre de stocker les poids des différents noeuds. Elle possède également les méthodes d'un graphe.
 La structure PoisitionedGraph va permettre de stocker la position des différents noeuds (en latitude et longitude). Elle possède également les méthodes d'un graphe.
